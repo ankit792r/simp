@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Frame 36.png" alt="Yamp — Yet Another Music Player" width="100%">
+  <img src="Frame 36.png" alt="A non-destructive photo editor built with Flutter" width="100%">
 </p>
 
 <p align="center">
